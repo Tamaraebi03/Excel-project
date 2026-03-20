@@ -67,3 +67,5 @@ This dashboard enables stakeholders to:
 - Identify **growth opportunities across regions and categories**  
 - Track **sales trends and seasonality**  
 - Make **data-driven strategic decisions** to improve profitability and efficiency  
+
+🔗 [Download Excel Dashboard](https://github.com/Tamaraebi03/Tamaraebi03/raw/refs/heads/main/US%20STORES%20DATA%20ANALYSIS.xlsx)
