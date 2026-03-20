@@ -1,5 +1,8 @@
 ## 📊 US Superstore Financial Analysis Dashboard – Key Insights
 
+<img width="853" height="575" alt="us stores data" src="https://github.com/user-attachments/assets/638de376-1a3f-42c3-9b99-d1a681e852f9" />
+
+
 ### 💰 Overall Business Performance
 - The business generated **$1.92M in revenue** with a **total profit of $224K**, resulting in an overall **profit margin of 12%**
 - This indicates **moderate profitability**, with room for margin improvement through cost optimization and pricing strategies
